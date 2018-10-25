@@ -1,4 +1,4 @@
 # EDA-Project1
-  2-Level Logic Minimization
-  -> Quine–McCluskey algorithm
-  -> Heuristic approach
+  Two-Level Logic Minimization
+  1. Quine–McCluskey algorithm
+  2. Heuristic approach
